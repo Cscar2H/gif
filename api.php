@@ -31,7 +31,17 @@ if ($type && $data && $small) {
     } else {
         $TEMP_VIDEO = $TEMP_ROOT . 'template.mp4';
     }
-    
+
+    /**
+     * 判断根目录是否存在 cache 目录，不存在则创建
+     */
+    if (!file_exists(ROOT . '/cache')) {
+        if (mkdir(ROOT . '/cache', 0777) === false) {
+            $result['code'] = 500;
+            $result['msg'] = '服务端 `cache` 目录不存在，尝试创建 `cache` 目录，但创建失败，请网站管理员在网站根目录手动创建 `cache` 目录';
+            exit(json_encode($result));
+        }
+    }
 
     if (file_exists($TEMP_ROOT)) {
         $ass_file = file_get_contents($TEMP_ASS);
