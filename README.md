@@ -1,16 +1,5 @@
 
 
-# 说明
-思路参考 [sorry](https://github.com/xtyxtyx/sorry)，。
-目前已有：
-1. [Ruby](https://github.com/xtyxtyx/sorry)
-2. [Python](https://github.com/East196/sorrypy)
-3. [Java](https://github.com/li24361/sorryJava)
-4. [Node.JS](https://github.com/q809198545/node-sorry)
-
-
-GIF 生成核心：[ffmpeg](https://www.ffmpeg.org/)
-
 ## 常用特效代码
 出现在句子中的特效代码会对其后的字符产生影响
 ```
