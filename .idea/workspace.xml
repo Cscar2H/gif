@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9980375a-bacc-4d70-bbe0-3b46a2df7bc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cache/1538622102.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/1538622476.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/1538622490.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/1538622662.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache/1538622684.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538619921.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538619962.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538619979.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538620002.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538620067.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538620142.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622102.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622476.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622490.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622662.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622684.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622716.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/1538622758.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,16 +37,16 @@
           <entry key="gitattributes" value="2" />
           <entry key="gitignore" value="2" />
           <entry key="js" value="2" />
-          <entry key="md" value="2" />
-          <entry key="php" value="13" />
+          <entry key="md" value="3" />
+          <entry key="php" value="14" />
           <entry key="ts" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="2" />
-          <entry key="PHP" value="13" />
+          <entry key="Markdown" value="3" />
+          <entry key="PHP" value="14" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="TypeScript" value="6" />
         </counts>
@@ -84,20 +89,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+            <state relative-caret-position="1221">
+              <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1585">
-              <caret line="25" selection-start-line="25" selection-end-line="26" />
+            <state relative-caret-position="363">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding>
+                <element signature="e#6#420#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -148,6 +156,12 @@
               <item name="gif" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gif" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gif" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="popteamepic" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +174,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,19 +198,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538615137127</updated>
-      <workItem from="1538615139705" duration="7705000" />
+      <workItem from="1538615139705" duration="9073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7705000" />
+    <option name="totallyTimeSpent" value="9073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1303648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -235,16 +248,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3993">
-            <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="805">
@@ -272,13 +275,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-429">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/weisuoyuwei/template.ass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -295,13 +291,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1585">
-          <caret line="25" selection-start-line="25" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="363">
@@ -309,10 +298,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+        <state relative-caret-position="1221">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="e#6#420#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
