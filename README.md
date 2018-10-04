@@ -1,5 +1,4 @@
 
-> 添加 GIF 模板非常简单，只需要将剪辑好的视频和配置好的字幕文件（.ass 格式）放到 `templates/<template_name>/`，然后在 `templates/index.php` 加个数组即可（具体请看：[添加 GIF 模板](https://github.com/PrintNow/php-sorry-gif#%E6%B7%BB%E5%8A%A0-gif-%E6%A8%A1%E6%9D%BF)）。
 
 # 说明
 思路参考 [sorry](https://github.com/xtyxtyx/sorry)，。
